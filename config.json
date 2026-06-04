@@ -1,0 +1,40 @@
+{
+  "messenger":
+    "https://m.me/onlinetayaanchat",
+
+  "videoTutorial":
+    "https://drive.google.com/drive/folders/17DbBQsbWY4zf3pOrpRd0Gs4IV03WJRlI",
+
+  "servers": [
+
+    {
+      "name": "mag LOGIN - Sabong 1",
+      "url":
+        "https://https://v1.swcup5.com"
+    },
+
+    {
+      "name": "mag LOGIN - Sabong 2",
+      "url":
+        "https://v1.swcup5.com"
+    },
+
+    {
+      "name": "mag LOGIN - Sabong 3",
+      "url":
+        "https://v1.swcup5.com"
+    },
+
+    {
+      "name": "Mag REGISTER ng Account",
+      "url":
+        "https://v1.swcup5.com/signup/K3I3hFmWgUM3"
+    },
+
+    {
+      "name": "mag PALOAD ng Account",
+      "url":
+        "https://m.me/onlinetayaanchat"
+    }
+  ]
+}
